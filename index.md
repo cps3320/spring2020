@@ -1,12 +1,12 @@
 # Instructor
 
 Robert Domanski<br>
-<a href="mailto:rdomanski@kean.edu">rdomansk@kean.edu</a>
+<a href="mailto:rdomansk@kean.edu">rdomansk@kean.edu</a>
 
 
 # Syllabus & Course Description
 
-<a href="">Syllabus</a>
+<a href="https://drive.google.com/file/d/1xfeF65X9mVsB-IBsYOCNgWyeFaLHCMYO/view?usp=sharing">Syllabus</a>
 
 This course will provide students will gain an understanding of programming in Python by creating a variety of scripts and applications for the Web and systems development; decompose problems into modular designs; design, code, debug, and test large-scale programs; application interfaces involving data structures, graphical user interfaces; and event-driven models; effective use of software development tools.
 
@@ -30,15 +30,15 @@ Upon successful completion of this course, students will have advanced skills to
 
 # January 22nd
 
-- <a href="https://drive.google.com/open?id=1bMMVG-OXXpx89w0eEP89oJCam3hTGu8Y">Slides</a>
+<b>Topics:  Overview of course; Python in the broader CS landscape; Download and install Python-Anaconda</b>
+- <a href="https://drive.google.com/file/d/1hf0Iv1BbIUzDlCK5DfoWTYX2O-eW0t7G/view?usp=sharing">Slides</a>
 
 
 # January 29th
 
-- <b>HOMEWORK</b> for next week:  Complete activities #4 and #5 in the slides (Create a personal website and create a derivative website).
-
-- <a href="https://drive.google.com/open?id=1wHQ7YNHmG5ozL4hjUQUFBodJ-1ThibLA">Slides</a>
-- <a href="https://drive.google.com/open?id=1Lpqgqj8cn6e_CrtBFasGiNpjpb3SZQFv">EXAMPLE: Starter code for every HTML page</a>
+<b>Topics: Core Python Syntax - I/O, Conditionals, Loops, Functions</b>
+- <a href="https://drive.google.com/file/d/1N-mTPuF_8oZOm1FOKF4dEbEqmyUZEUEb/view?usp=sharing">Slides</a>
+- <a href="https://drive.google.com/file/d/1bxLqwqNPp6mIhjMn_KdFtwdBVHaFWof-/view?usp=sharing">CODE SAMPLE: Spirographs in Turtle</a>
 
 
 
