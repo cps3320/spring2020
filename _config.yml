@@ -1,1 +1,6 @@
+title: CPS 3320 @ Kean University
+description: This is the course website for "Python Programming" for Spring 2020.
 theme: jekyll-theme-cayman
+
+github:
+  is_project_page: false
