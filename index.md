@@ -30,15 +30,23 @@ Upon successful completion of this course, students will have advanced skills to
 
 # January 22nd
 
-<b>Topics:  Overview of course; Python in the broader CS landscape; Download and install Python-Anaconda</b>
+<b><u>Topics:</u>  Overview of course; Python in the broader CS landscape; Download and install Python-Anaconda</b>
 - <a href="https://drive.google.com/file/d/1hf0Iv1BbIUzDlCK5DfoWTYX2O-eW0t7G/view?usp=sharing">Slides</a>
 
 
 # January 29th
 
-<b>Topics: Core Python Syntax - I/O, Conditionals, Loops, Functions</b>
+<b><u>Topics:</u> Python Syntax - I/O, Conditionals, Loops, Functions</b>
 - <a href="https://drive.google.com/file/d/1N-mTPuF_8oZOm1FOKF4dEbEqmyUZEUEb/view?usp=sharing">Slides</a>
 - <a href="https://drive.google.com/file/d/1bxLqwqNPp6mIhjMn_KdFtwdBVHaFWof-/view?usp=sharing">CODE SAMPLE: Spirographs in Turtle</a>
 
+
+# February 5th
+
+<b><u>Topics:</u> Core Python - Lists, Tuples, Dictionaries</b>
+- <a href="">Slides</a>
+- <a href="https://drive.google.com/file/d/1KkxCv4GvbIoXp9yj3lvm0f79HiIL6ALf/view?usp=sharing">ASSIGNMENT #1: "Scrabble" game</a>
+- <a href="https://drive.google.com/file/d/16WhNz9fI0usP3o-EAda0SyKXUYs852PV/view?usp=sharing">ASSIGNMENT #2: "Hangman" game</a>
+- <a href="https://drive.google.com/file/d/1ie2iJef4_YhGncdrE66JJI0wrWQl8s8P/view?usp=sharing">ASSIGNMENT #3: "Gift Exchange" helper program</a>
 
 
