@@ -50,3 +50,11 @@ Upon successful completion of this course, students will have advanced skills to
 - <a href="https://drive.google.com/file/d/1ie2iJef4_YhGncdrE66JJI0wrWQl8s8P/view?usp=sharing">ASSIGNMENT #3: "Gift Exchange" helper program</a>
 
 
+# February 12th
+
+<b><u>Topics:</u> Dictionaries, Data Structures</b>
+- <a href="">Slides</a>
+- <a href="https://github.com/NYC-TTP/Data-Structures-Algorithms/blob/master/README.md">Giant repository of Practice Problems (with solutions)
+- <a href="https://medium.com/@fabianterh/how-to-improve-your-data-structures-algorithms-and-problem-solving-skills-af50971cba60">Tips for improving your Data Structures and Algorithms skills (article)</a>
+
+
