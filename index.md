@@ -54,7 +54,7 @@ Upon successful completion of this course, students will have advanced skills to
 
 <b><u>Topics:</u> Dictionaries, Data Structures</b>
 - <a href="">Slides</a>
-- <a href="https://github.com/NYC-TTP/Data-Structures-Algorithms/blob/master/README.md">Giant repository of Practice Problems (with solutions)
+- <a href="https://github.com/NYC-TTP/Data-Structures-Algorithms/blob/master/README.md">Giant repository of Data Structures Practice Problems (with solutions)
 - <a href="https://medium.com/@fabianterh/how-to-improve-your-data-structures-algorithms-and-problem-solving-skills-af50971cba60">Tips for improving your Data Structures and Algorithms skills (article)</a>
 
 
