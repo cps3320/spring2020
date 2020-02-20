@@ -58,3 +58,9 @@ Upon successful completion of this course, students will have advanced skills to
 - <a href="https://medium.com/@fabianterh/how-to-improve-your-data-structures-algorithms-and-problem-solving-skills-af50971cba60">Tips for improving your Data Structures and Algorithms skills (article)</a>
 
 
+# February 19th
+
+<b><u>Topics:</u>More Data Structures!</b>
+- <a href="https://drive.google.com/file/d/159u_pNx-4BdH-KM40J96Nrao2GAMmfrc/view?usp=sharing">Slides</a>
+- <b><a href="https://drive.google.com/file/d/1ou3lKj5E8HVHzMflIkYJcptDTIZKgGmU/view?usp=sharing">PROJECT ASSIGNMENT #1</a></b>
+
