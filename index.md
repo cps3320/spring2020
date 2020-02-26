@@ -64,3 +64,15 @@ Upon successful completion of this course, students will have advanced skills to
 - <a href="https://drive.google.com/file/d/159u_pNx-4BdH-KM40J96Nrao2GAMmfrc/view?usp=sharing">Slides</a>
 - <b><a href="https://drive.google.com/file/d/1ou3lKj5E8HVHzMflIkYJcptDTIZKgGmU/view?usp=sharing">PROJECT ASSIGNMENT #1</a></b>
 
+
+# February 26th
+
+<b><u>Topics:</u>  GUI Programming</b>
+- <a href="https://drive.google.com/file/d/1hCk0nAVTZsvnvNZoBxA6B3O1nJ73-jzf/view?usp=sharing">Slides</a>
+- <a href="">Code Example:  Zombie Walker simulation</a>
+- <a href="https://drive.google.com/file/d/10WV7Lqw9CgZxsmPLoDz7tXzVYMfNbrwa/view?usp=sharing">Essential 'graphics.py' wrapper</a>
+- <a href="https://github.com/RobbieD2R2/Pi-from-Pie-in-Py">Code Example:  Pi from Pie in Py</a>
+- <a href="">Code Example:  Basic GUI objects</a>
+- <a href="">Code Example:  Coin-flipping</a>
+  - Images needed:  <a href="https://drive.google.com/file/d/1I9JcnqkQADf2Ws53fInMVhn5LeoRQoNk/view?usp=sharing">h.gif</a>  |  <a href="https://drive.google.com/open?id=1PcAmWB22tb6XSh8jM5w0toCfas-2JL3A">t.gif</a>
+
