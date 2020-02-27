@@ -69,10 +69,11 @@ Upon successful completion of this course, students will have advanced skills to
 
 <b><u>Topics:</u>  GUI Programming</b>
 - <a href="https://drive.google.com/file/d/1hCk0nAVTZsvnvNZoBxA6B3O1nJ73-jzf/view?usp=sharing">Slides</a>
-- <a href="https://drive.google.com/file/d/1Z6037bkT0-WcSrFKWYDx8raumzzGSsOw/view?usp=sharing">Code Example:  Zombie Walker simulation</a>
+- <a href="https://drive.google.com/file/d/1Z6037bkT0-WcSrFKWYDx8raumzzGSsOw/view?usp=sharing">Code Sample:  Zombie Walker simulation</a>
 - <a href="https://drive.google.com/file/d/10WV7Lqw9CgZxsmPLoDz7tXzVYMfNbrwa/view?usp=sharing">Essential 'graphics.py' wrapper</a>
-- <a href="https://github.com/RobbieD2R2/Pi-from-Pie-in-Py">Code Example:  Pi from Pie in Py</a>
-- <a href="">Code Example:  Basic GUI objects</a>
-- <a href="">Code Example:  Coin-flipping</a>
+- <a href="https://github.com/RobbieD2R2/Pi-from-Pie-in-Py">Code Sample:  Pi from Pie in Py</a>
+  - Fork this from GitHub, improve upon it, and make a Pull Request back to me!
+- <a href="https://drive.google.com/file/d/1MMFKhMN6rjsmFQAaUwqJJAIE1H6v2CRu/view?usp=sharing">Code Sample:  Basic GUI objects</a>
+- <a href="https://drive.google.com/file/d/1xzyeJh3oJJBQ0ZazbalCulpxDr6O9Bhq/view?usp=sharing">Code Sample:  Coin-flipping</a>
   - Images needed:  <a href="https://drive.google.com/file/d/1I9JcnqkQADf2Ws53fInMVhn5LeoRQoNk/view?usp=sharing">h.gif</a>  |  <a href="https://drive.google.com/open?id=1PcAmWB22tb6XSh8jM5w0toCfas-2JL3A">t.gif</a>
 
