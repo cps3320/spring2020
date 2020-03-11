@@ -77,3 +77,13 @@ Upon successful completion of this course, students will have advanced skills to
 - <a href="https://drive.google.com/file/d/1xzyeJh3oJJBQ0ZazbalCulpxDr6O9Bhq/view?usp=sharing">Code Sample:  Coin-flipping</a>
   - Images needed:  <a href="https://drive.google.com/file/d/1I9JcnqkQADf2Ws53fInMVhn5LeoRQoNk/view?usp=sharing">h.gif</a>  |  <a href="https://drive.google.com/open?id=1PcAmWB22tb6XSh8jM5w0toCfas-2JL3A">t.gif</a>
 
+
+# March 11th
+
+<b><u>Topics:</u>  Data & File Operations</b>
+- <a href="">Slides</a>
+- Code Sample - <a href="https://drive.google.com/open?id=1Opm70t4wOUBWMWcx2QsbIn6GQcBYes3c">Slam Poetry Generator</a>  |  <a href="https://drive.google.com/open?id=16U-QMHpZ9BsOk_oXnTSN9zVev60Lv3DM">originalLyrics.txt</a>
+- Code Sample - <a href="https://drive.google.com/open?id=1H43UHGNR7uzaLetKpIQ7oLl-JCS7-uqP">Presidential Debate Analysis</a>  |  <a href="https://drive.google.com/open?id=1ZDVVOzSOba7m8Q_01BQ5Uw5DzoLVp5kI">DebateTranscript.txt</a>
+- Code Sample - <a href="https://drive.google.com/open?id=12T_DCkBWN1fq4Qpm0NN70uN-JQ0eDPMa">Creating Usernames with Files</a>  |  <a href="https://drive.google.com/open?id=1HPiwASZ9WexHSMurjBUllwm0PPnpqptw">StudentNames.txt</a>
+- Code Sample - <a href="https://drive.google.com/open?id=1q9_Wx0UrBRxwlTus-VskwRpa4-kG593x">Basics of File Operations</a>
+
