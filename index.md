@@ -78,7 +78,7 @@ Upon successful completion of this course, students will have advanced skills to
   - Images needed:  <a href="https://drive.google.com/file/d/1I9JcnqkQADf2Ws53fInMVhn5LeoRQoNk/view?usp=sharing">h.gif</a>  |  <a href="https://drive.google.com/open?id=1PcAmWB22tb6XSh8jM5w0toCfas-2JL3A">t.gif</a>
 
 
-# March 11th
+# March 18th
 
 <b><u>Topics:</u>  Data & File Operations</b>
 - <a href="">Slides</a>
