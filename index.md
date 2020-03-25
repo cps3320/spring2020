@@ -87,3 +87,12 @@ Upon successful completion of this course, students will have advanced skills to
 - Code Sample - <a href="https://drive.google.com/open?id=12T_DCkBWN1fq4Qpm0NN70uN-JQ0eDPMa">Creating Usernames with Files</a>  /  <a href="https://drive.google.com/open?id=1HPiwASZ9WexHSMurjBUllwm0PPnpqptw">StudentNames.txt</a>
 - Code Sample - <a href="https://drive.google.com/open?id=1q9_Wx0UrBRxwlTus-VskwRpa4-kG593x">Basics of File Operations</a>
 
+
+# March 24th
+
+<b><u>Topics:</u>  Data & File Operations</b>
+- <a href="https://drive.google.com/file/d/16sBp95_F4lL3Gah6afyfeYXZsu6rCMGm/view?usp=sharing">Slides</a>  /  <a href="https://prezi.com/v1nzelsezrzo/a-quick-intro-to-python-libraries-and-web-apis/?utm_campaign=share&utm_medium=copy">Additional Prezi slides</a>
+- Code Sample - <a href="https://drive.google.com/file/d/1oVF83nIQq8DxaSBWBEToaYGz-BsC8ecX/view?usp=sharing">Using Beautiful Soup for web scraping</a>
+- Code Sample - <a href="https://drive.google.com/file/d/1YY51zUueMQxnRL_QyH4KM_jiEkXFuEt2/view?usp=sharing">Using Tweepy to collect Twitter data</a>
+- Code Sample - <a href="">Using NLTK for Natural Langage Processing</a>
+
