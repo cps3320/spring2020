@@ -95,4 +95,5 @@ Upon successful completion of this course, students will have advanced skills to
 - Code Sample - <a href="https://drive.google.com/file/d/1oVF83nIQq8DxaSBWBEToaYGz-BsC8ecX/view?usp=sharing">Using Beautiful Soup for web scraping</a>
 - Code Sample - <a href="https://drive.google.com/file/d/1YY51zUueMQxnRL_QyH4KM_jiEkXFuEt2/view?usp=sharing">Using Tweepy to collect Twitter data</a>
 - Code Sample - <a href="">Using NLTK for Natural Langage Processing</a>
+- <a href="https://drive.google.com/file/d/12RjpZ9xH-H7Dr9UJSWcRCwupe8dTNY5S/view?usp=sharing">Project Assignment #2</a>
 
