@@ -90,7 +90,7 @@ Upon successful completion of this course, students will have advanced skills to
 
 # March 24th
 
-<b><u>Topics:</u>  Data & File Operations</b>
+<b><u>Topics:</u>  Python Libraries</b>
 - <a href="https://drive.google.com/file/d/16sBp95_F4lL3Gah6afyfeYXZsu6rCMGm/view?usp=sharing">Slides</a>  /  <a href="https://prezi.com/v1nzelsezrzo/a-quick-intro-to-python-libraries-and-web-apis/?utm_campaign=share&utm_medium=copy">Additional Prezi slides</a>
 - Code Sample - <a href="https://drive.google.com/file/d/1oVF83nIQq8DxaSBWBEToaYGz-BsC8ecX/view?usp=sharing">Using Beautiful Soup for web scraping</a>
 - Code Sample - <a href="https://drive.google.com/file/d/1YY51zUueMQxnRL_QyH4KM_jiEkXFuEt2/view?usp=sharing">Using Tweepy to collect Twitter data</a>
