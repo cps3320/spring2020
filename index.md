@@ -91,9 +91,9 @@ Upon successful completion of this course, students will have advanced skills to
 # March 24th
 
 <b><u>Topics:</u>  Python Libraries</b>
-- <a href="https://drive.google.com/file/d/16sBp95_F4lL3Gah6afyfeYXZsu6rCMGm/view?usp=sharing">Slides</a>  /  <a href="https://prezi.com/v1nzelsezrzo/a-quick-intro-to-python-libraries-and-web-apis/?utm_campaign=share&utm_medium=copy">Additional Prezi slides</a>
-- Code Sample - <a href="https://drive.google.com/file/d/1oVF83nIQq8DxaSBWBEToaYGz-BsC8ecX/view?usp=sharing">Using Beautiful Soup for web scraping</a>
-- Code Sample - <a href="https://drive.google.com/file/d/1YY51zUueMQxnRL_QyH4KM_jiEkXFuEt2/view?usp=sharing">Using Tweepy to collect Twitter data</a>
-- Code Sample - <a href="">Using NLTK for Natural Langage Processing</a>
+- <a href="https://drive.google.com/file/d/1R05QlYE4Y93tQepJGQERmRD0YO7992Hp/view?usp=sharing">Slides</a>  /  <a href="https://prezi.com/v1nzelsezrzo/a-quick-intro-to-python-libraries-and-web-apis/?utm_campaign=share&utm_medium=copy">Additional Prezi slides</a>
+- Code Sample - <a href="https://drive.google.com/file/d/1oVF83nIQq8DxaSBWBEToaYGz-BsC8ecX/view?usp=sharing">Using Beautiful Soup for web scraping</a>  /  <a href="https://drive.google.com/file/d/1x6R8JYEJEXiAqcYi_GyIy_BxNzAAdszN/view?usp=sharing">Phish Setlist example</a>
+- Code Sample - <a href="https://drive.google.com/file/d/1cRMukLLdO6vsIp618MZJiNHQS3gDCDsQ/view?usp=sharing">Using Tweepy to collect Twitter data</a>  /  <a href="https://drive.google.com/file/d/1YY51zUueMQxnRL_QyH4KM_jiEkXFuEt2/view?usp=sharing">Trump Tweets example</a>
+- Code Sample - <a href="https://drive.google.com/file/d/1TmZjkA3uUb5z6Dthm51WBmh_gqP-hKkf/view?usp=sharing">Using NLTK for Natural Langage Processing</a>
 - <a href="https://drive.google.com/file/d/12RjpZ9xH-H7Dr9UJSWcRCwupe8dTNY5S/view?usp=sharing">Project Assignment #2</a>
 
